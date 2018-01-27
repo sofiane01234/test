@@ -1,0 +1,7 @@
+ class Carre extends Noeud {
+ 
+  
+  
+   
+  
+}
